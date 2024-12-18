@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AB_MVVM</string>
+    <string name="move">MOVE</string>
 </resources>
